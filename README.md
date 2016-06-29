@@ -1,7 +1,8 @@
-# Collejo Documentation
+# Collejo 
+## Documentation
 
 Welcome to Collejo Documentation, this repository is split in to three sections:
 
-+ Collejo Installation Guide
-+ Collejo User Guide
-+ Collejo Developer Guide
++ [Collejo Installation Guide](/installation-guide/README.md)
++ [Collejo User Guide](/user-guide/README.md)
++ [Collejo Developer Guide](/developer-guide/README.md)

@@ -6,6 +6,8 @@ Collejo utilizes [Composer](http://getcomposer.org) to manage its dependencies. 
 
 To create a new Collejo installation use Composer `create-project` command followed by the optional installation directory name.
 
-````composer create-project codebreez/collejo 
+```composer create-project codebreez/collejo ```
 
 A new directory will be created on the root you ran the command. Composer will automatically install all the PHP packages required to run Collejo.
+
+After installing proceed to (setting up)[/installation-guide/setting_up.md] section on how to setup database for Collejo.

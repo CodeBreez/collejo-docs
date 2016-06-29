@@ -6,8 +6,8 @@ When your application is in maintenance mode, a view will be displayed for all r
 
 To enable maintenance mode, simply execute the down Artisan command:
 
-````php artisan down````
+```php artisan down```
 
 To disable maintenance mode, use the up command:
 
-````php artisan up````
+```php artisan up```

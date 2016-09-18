@@ -10,4 +10,4 @@ To create a new Collejo installation use Composer `create-project` command follo
 
 A new directory will be created on the root you ran the command. Composer will automatically install all the PHP packages required to run Collejo.
 
-After installing proceed to [setting up](/installation-guide/setting_up.md) section on how to setup database for Collejo.
+After installing proceed to [basic configuration](/installation-guide/basic_configuration.md) section on how to setup database for Collejo.

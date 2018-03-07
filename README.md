@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/astroanu/collejo-workbench/L55/graphics/collejo_mid.png?raw=true" alt="Collejo"/>
+
 # Collejo 
 ## Documentation
 

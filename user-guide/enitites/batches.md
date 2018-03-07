@@ -6,5 +6,3 @@ Batches are how Collejo keeps track of each course or grade on each enrollment o
 For schools a minimum of batch is necessary for a year while, for univercities batches can be created per course. 
 
 The following diagram show how Baatches, Classes and Grades are connected.
-
-<iframe frameborder="0" style="width:100%;height:613px;" src="https://www.draw.io/#G0B521N9aqZNP5eXJmRGV1WXpVRGc"></iframe>

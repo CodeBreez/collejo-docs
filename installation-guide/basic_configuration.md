@@ -24,9 +24,13 @@ DB_PASSWORD=secret
 
 #### Migrations
 
-After setting up database credentials run database migrations using the `migrate:copy` artisan command.
+After setting up database credentials run database migrations using the following artisan command.
 
-```php artisan migrate:copy```
+```php artisan migrate```
+
+#### Building scripts and styles
+
+After a fresh installation or an update, or any new modules installation it is recommended that you build/re-build the scripts and styles. To do this run `npm run prod` on production environment. On development environment you could simply run `npm run watch` to listne for changes in the code.
 
 ##### Pretty URLs
 

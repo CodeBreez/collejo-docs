@@ -1,11 +1,11 @@
 # Collejo 
 ## Permissions and Roles
 
-The following role are created by default.
+The following roles are created by default.
 
-- Admin 
+- Admin
 - Employee
 - Student
 - Guardian
 
-Additional roles can be created by users with permissions.
+Additional roles can be created by users with `add_edit_role` permission.

@@ -3,7 +3,7 @@
 
 + [What is Collejo?](user-guide/what_is.md)
 + [Why Use Collejo?](user-guide/why_use_collejo.md)
-+ [Entities]()
++ [Entities](user-guide/entities/entities.md)
     + [Batches](user-guide/entities/batches.md)
         + [Terms](user-guide/entities/terms.md)
         + [Grades](user-guide/entities/grades.md)

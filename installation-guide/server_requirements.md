@@ -6,11 +6,14 @@ Since Collejo is written on the Laravel framework, it requires the same system r
 
 However, if you are not using Homestead, you will need to make sure your server meets the following basic requirements:
 
-- PHP >= 5.5.9
+- PHP >= 7.1.3
 - OpenSSL PHP Extension
 - PDO PHP Extension
 - Mbstring PHP Extension
 - Tokenizer PHP Extension
+- XML PHP Extension
+- Ctype PHP Extension
+- JSON PHP Extension
 - MySQL 5.6 or newer
 
 ##### Optional Recommend Requirements:
